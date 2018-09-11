@@ -8,6 +8,12 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:47017/test
+      
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:47017/test
+ 
 
 ---
 ---
@@ -17,9 +23,6 @@ spring:
 #       jdbc-url: jdbc:h2:~/testdb
     
    
-#   jpa:
-#    show-sql: true
-
 
 ---
 spring:
