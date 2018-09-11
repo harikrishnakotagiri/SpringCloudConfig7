@@ -12,7 +12,7 @@ spring:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/test7
+      uri: mongodb://localhost:47017/test7
  
 
 ---
